@@ -1,0 +1,368 @@
+* {
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans',sans-serif;
+    background-color: #A85CF9;
+}
+
+.wrapper {
+    width: 1100px;
+    margin: auto;
+    position: relative;
+}
+
+.logo a {
+    font-size: 50px;
+    font-weight: 800;
+    float: left;
+    font-family: courier;
+    color: #fff;
+}
+
+.menu {
+    float: right;
+}
+
+nav {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    line-height: 80px;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    background: #570A57;
+    z-index: 1000;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav ul li {
+    float: left;
+}
+
+nav ul li a {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding: 0px 16px 0px 16px;
+   
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+.tbl-biru1 {
+    background: #F806CC;
+    border-radius: 20px;
+    cursor: pointer;
+    color: #fff;
+    font-family: 'comic sans ms';
+    margin-left: 10px;
+}
+
+.tbl-biru1:hover {
+    background: #6A67CE;
+    text-decoration: none;
+}
+
+.tbl-biru2 {
+    background: #F806CC;
+    border-radius: 20px;
+    cursor: pointer;
+    color: #fff;
+    font-family: 'comic sans ms';
+    margin-left: 10px;
+}
+
+.tbl-biru2:hover {
+    background: #6A67CE;
+    text-decoration: none;
+}
+
+.tbl-biru3 {
+    background: #F806CC;
+    border-radius: 20px;
+    cursor: pointer;
+    color: #fff;
+    font-family: 'comic sans ms';
+    margin-left: 10px;
+}
+
+.tbl-biru3:hover{
+    background: #6A67CE;
+    text-decoration: none;
+}
+
+.tbl-biru4 {
+    background: #F806CC;
+    border-radius: 20px;
+    cursor: pointer;
+    color: #fff;
+    font-family: 'comic sans ms';
+    margin-left: 10px;
+}
+
+.tbl-biru4:hover {
+    background: #6A67CE;
+    text-decoration: none;
+}
+
+.tbl-biru5 {
+    background: #F806CC;
+    border-radius: 20px;
+    cursor: pointer;
+    color: #fff;
+    font-family: 'comic sans ms';
+    margin-left: 10px;
+}
+
+.tbl-biru5:hover {
+    background: #6A67CE;
+    text-decoration: none;
+}
+
+
+
+section {
+    margin: auto;
+    display: flex;
+    margin-bottom: 50px;    
+}
+
+.kolom {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.kolom .deskripsi {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'comic sans ms';
+    color: rgb(36, 41, 41);
+}
+
+h2 {
+    font-family: 'comic sans ms';
+    font-weight:  800;
+    font-size: 45px;
+    margin-bottom: 20px;
+    color: rgb(36, 41, 41);
+    width: 100%;
+    line-height: 50px;
+    margin-top: -10px;
+    
+}
+
+.tahun {
+    margin-top: -25px;
+    font-family:  Comic Sans MS;
+    margin-left: 5px;
+    margin-right: 65px;
+}
+    
+
+a.tbl-pink {
+    background: #F806CC;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 15px 20px 15px 20px;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'comic sans ms';
+    margin-left: -5px;
+}
+
+.tbl-pink:hover {
+    background: #6A67CE;
+    text-decoration: none;
+}
+
+p {
+    margin: 10px 0px 10px 0px;
+    padding: 10px 0px 10px 0px;
+
+}
+
+.deskripsi2 {
+    margin-left: 7px;
+    font-family: Comic Sans MS;
+}
+
+.ada-cowo {
+    margin-top: -25px;
+    font-family: 'comic sans ms';
+    margin-left: 5px;
+    margin-right: 25px;
+    
+}
+
+.potek {
+    margin-left: 800px;
+}
+
+.tbl-pink8 {
+    background: #F806CC;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 15px 20px 15px 20px;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'comic sans ms';
+    margin-left: -5px;
+}
+
+.tbl-pink8:hover {
+    background: #6A67CE;
+    text-decoration: none;
+}
+
+.kolom2 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+.kolom2 .deskripsi3 {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Comic sans MS';
+    color: rgb(36, 41, 41);
+    margin-top: 100px;
+}
+
+.caca-manis {
+    font-family: 'comic sans ms';
+    font-weight:  800;
+    font-size: 45px;
+    margin-bottom: 20px;
+    color: rgb(36, 41, 41);
+    width: 100%;
+    line-height: 50px;
+    margin-top: -10px;
+}
+
+.alasan-gue {
+    margin-top: -25px;
+    font-family:  Comic Sans MS;
+    margin-left: 5px;
+    margin-right: 300px;
+}
+
+.tbl-pink9 {
+    background: #F806CC;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 15px 20px 15px 20px;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'comic sans ms';
+    margin-left: -5px;
+}
+
+.tbl-pink9:hover {
+    background: #6A67CE;
+    text-decoration: none;
+}
+
+.yaudah-deh {
+    margin: auto;
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.Deskripsi4 {
+    margin-left: 105px;
+    margin-top: 120px;
+    margin-bottom: -65px;
+    font-family: Comic Sans MS;
+
+        
+    
+}
+
+.pasrah {
+    margin-top: -30px;
+    font-family: 'comic sans ms';
+    margin-left: 100px;
+    margin-right: 80px;
+}
+
+.hehe-hehe {
+    margin-top: 60px;
+    margin-left: 100px;
+    margin-right: 80px;
+}
+
+.tbl-pink10 {
+    background: #F806CC;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 15px 20px 15px 20px;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'comic sans ms';
+    margin-left: 90px;
+    
+}
+
+.tbl-pink10:hover {
+    background: #6A67CE;
+    text-decoration: none;
+}
+
+.iya {
+    font-family: Comic Sans Ms;
+    margin-top: 40px;
+}
+
+.ikhlas-ya {
+    margin-top: -26px;
+}
+
+.huh {
+    font-family: Comic Sans MS;
+    margin-right: -30px;
+    margin-top: -20px;
+    margin-left: -3px;
+    margin-right: 200px;
+}
+
+.tbl-pink12 {
+    background: #F806CC;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 15px 20px 15px 20px;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'comic sans ms';
+    margin-left: 90px;
+}
+
+.tbl-pink12:hover {
+    background: #6A67CE;
+    text-decoration: none;
+}
+
+.penutup {
+    font-family: Comic Sans MS;
+    margin-left: 350px;
+}
+
+.satu-lagi {
+    font-family: Comic Sans MS;
+    margin-left: 540px;
+    margin-bottom: 200px;
+}
